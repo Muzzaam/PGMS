@@ -1,7 +1,0 @@
-pandas
-numpy
-requests
-yfinance
-scikit-learn
-hmmlearn
-matplotlib

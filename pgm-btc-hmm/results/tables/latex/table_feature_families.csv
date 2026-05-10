@@ -1,6 +1,0 @@
-Feature family,Features,States,Accuracy,Balanced accuracy
-Price only,3,4,0.548,0.53
-Price + psychology,6,3,0.583,0.572
-Price + macro,5,3,0.464,0.467
-Price + trader,5,4,0.5,0.505
-Compact combined,7,3,0.548,0.5

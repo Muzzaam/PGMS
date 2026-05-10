@@ -1,6 +1,0 @@
-Model,Accuracy,Balanced accuracy,Features
-Majority class,0.548,0.5,
-Last sign,0.524,0.519,
-Logistic regression,0.524,0.535,6.0
-GMM (3 clusters),0.548,0.543,6.0
-HMM psychology (3 states),0.583,0.572,6.0
